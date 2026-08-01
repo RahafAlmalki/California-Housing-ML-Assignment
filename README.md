@@ -27,13 +27,13 @@ No missing values were found in the dataset. Mean, median, and standard deviatio
 
 <p align="center">
   <img src="assets/House age distribution.png" width="420"/>
-  <img src="assets/house-value-boxplot.png" width="420"/>
+  <img src="assets/House value boxplot.png" width="420"/>
 </p>
 
 The house age histogram shows most homes fall in the 20–30 year range, with secondary peaks around 15 and 50 years — a non-uniform distribution suggesting real variability in the housing stock. The box plot of median house values shows most prices clustered tightly, with a cluster of high-value outliers above the upper whisker, pointing to a disparity at the top end of the market.
 
 <p align="center">
-  <img src="assets/value-vs-rooms-scatter.png" width="480"/>
+  <img src="assets/Value vs rooms scatter.png" width="480"/>
 </p>
 
 Plotting median house value against average rooms per household shows a general upward trend — more rooms tend to associate with higher value — though with a lot of scatter, meaning room count alone isn't a clean predictor.
@@ -54,8 +54,8 @@ Goal: classify whether a house is "Expensive" based on its features.
 | ROC-AUC | — | **0.93** |
 
 <p align="center">
-  <img src="assets/confusion-matrix.png" width="420"/>
-  <img src="assets/roc-curve.png" width="420"/>
+  <img src="assets/Confusion matrix.png" width="420"/>
+  <img src="assets/Roc curve.png" width="420"/>
 </p>
 
 The confusion matrix shows balanced performance across both classes — the model isn't skewed toward predicting one class over the other. The ROC curve backs this up with a strong AUC of 0.93, and precision/recall/F1 all land around 0.85 for both classes.
@@ -70,7 +70,7 @@ Goal: predict the continuous `MedHouseVal` using degree-2 polynomial regression.
 - **R² Score:** 0.65 (65% of variance explained)
 
 <p align="center">
-  <img src="assets/actual-vs-predicted.png" width="480"/>
+  <img src="assets/Actual vs predicted.png" width="480"/>
 </p>
 
 The predicted line tracks the overall trend of actual values reasonably well, though deviations grow more noticeable at higher price points — suggesting the model captures the general relationship but misses some of the complexity driving the priciest homes.
