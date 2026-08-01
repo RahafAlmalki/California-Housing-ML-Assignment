@@ -26,7 +26,7 @@ This assignment explores the **California Housing dataset** (20,640 records, 8 f
 No missing values were found in the dataset. Mean, median, and standard deviation were computed for every feature, then the numerical features were normalized and a binary target (`Expensive` / `Not Expensive`) was created based on median house price.
 
 <p align="center">
-  <img src="assets/house-age-distribution.png" width="420"/>
+  <img src="assets/House age distribution.png" width="420"/>
   <img src="assets/house-value-boxplot.png" width="420"/>
 </p>
 
