@@ -97,7 +97,7 @@ The predicted line tracks the overall trend of actual values reasonably well, th
 
 ## 🛠️ Tools Used
 
-Python · Scikit-learn · Pandas · Matplotlib/Seaborn · Google Colab
+<p> <img src="https://img.shields.io/badge/Python-9C27B0?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-AB47BC?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-BA68C8?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-D81B60?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F06292?style=flat-square&logo=googlecolab&logoColor=white"/> </p>
 
 ## 👥 Team
 
