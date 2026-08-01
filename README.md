@@ -62,9 +62,14 @@ Python · Scikit-learn · Pandas · Matplotlib/Seaborn · Google Colab
 
 ## 👥 Team
 
-- Rahaf Almalki
-- Aliyah Alabdali
+<div align="left">
+
+[![Rahaf Almalki](https://img.shields.io/badge/Rahaf_Almalki-RahafAlmalki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahafAlmalki)
+
+[![Aliyah Alabdali](https://img.shields.io/badge/Aliyah_Alabdali-AliyahAlabdali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliyahAlabdali)
+
+</div>
 
 ---
 
-<p align="center"><i>Machine Learning course project — Computer Science & Artificial Intelligence Department, Umm Al-Qura University</i></p>
+<p align="center"><i>Machine Learning course Assignment — Computer Science & Artificial Intelligence Department, Umm Al-Qura University</i></p>
