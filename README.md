@@ -27,7 +27,7 @@ No missing values were found in the dataset. Mean, median, and standard deviatio
 
 <p align="center">
   <img src="assets/House age distribution.png" width="420"/>
-  <img src="assets/House value boxplot.png" width="412"/>
+  <img src="assets/House value boxplot.png" width="420"/>
 </p>
 
 The house age histogram shows most homes fall in the 20–30 year range, with secondary peaks around 15 and 50 years — a non-uniform distribution suggesting real variability in the housing stock. The box plot of median house values shows most prices clustered tightly, with a cluster of high-value outliers above the upper whisker, pointing to a disparity at the top end of the market.
