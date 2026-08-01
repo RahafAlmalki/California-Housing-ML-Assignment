@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://colab.research.google.com/drive/1IJ5jwh_b38cqLnDMqd0JYdzia5UrJMbt?usp=sharing)">📓 Open in Colab</a>
+  <a href="https://colab.research.google.com/drive/1IJ5jwh_b38cqLnDMqd0JYdzia5UrJMbt?usp=sharing">📓 Open in Colab</a>
 </p>
 
 ---
