@@ -79,9 +79,14 @@ The predicted line tracks the overall trend of actual values reasonably well, th
 
 ## 🧠 4. Analysis & Reflection
 
-<p align="center">
-  <img src="assets/feature-scores.png" width="480"/>
-</p>
+| Feature | Score |
+|---|---|
+| Latitude | 7,772 |
+| Median Income (MedInc) | 7,731 |
+| Longitude | 7,214 |
+| Average Rooms (AveRooms) | 4,487 |
+| Average Bedrooms (AveBedrms) | 1,242 |
+| House Age | 411 |
 
 - **Most predictive features:** Latitude, Median Income, and Longitude scored highest via `SelectKBest` — location and income are the strongest predictors of house price.
 - **Why polynomial regression outperforms linear regression:** it captures non-linear relationships and feature interactions (e.g., income × location × house age) that a straight-line model misses.
